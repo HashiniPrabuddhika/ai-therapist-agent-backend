@@ -3,6 +3,7 @@ import { Activity, IActivity } from "../models/Activity";
 import { logger } from "../utils/logger";
 import { sendActivityCompletionEvent } from "../utils/inngestEvents";
 
+import { startOfDay, endOfDay } from "date-fns";    
 // Log a new activity
 export const logActivity = async (
   req: Request,
@@ -48,6 +49,32 @@ export const logActivity = async (
       success: true,
       data: activity,
     });
+  } catch (error) {
+    next(error);
+  }
+};
+
+export const getTodaysActivities = async (
+  req: Request,
+  res: Response,
+  next: NextFunction
+) => {
+  try {
+    const userId = req.user?._id;
+
+    if (!userId) {
+      return res.status(401).json({ message: "User not authenticated" });
+    }
+
+    const todayStart = startOfDay(new Date());
+    const todayEnd = endOfDay(new Date());
+
+    const activities = await Activity.find({
+      userId,
+      timestamp: { $gte: todayStart, $lte: todayEnd },
+    });
+
+    res.status(200).json(activities);
   } catch (error) {
     next(error);
   }

@@ -15,3 +15,261 @@
 {"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-21T11:17:52.947Z"}
 {"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-21T11:17:52.958Z"}
 {"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-21T11:17:52.958Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-21T14:13:07.936Z"}
+{"code":"ETIMEOUT","hostname":"_mongodb._tcp.cluster0.znbgmwt.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.cluster0.znbgmwt.mongodb.net","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.znbgmwt.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:291:17)","syscall":"querySrv","timestamp":"2025-10-21T14:21:13.788Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-21T14:39:58.592Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-21T14:39:58.610Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-21T14:39:58.611Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-21T15:47:41.210Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-21T15:47:41.226Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-21T15:47:41.227Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-21T15:59:57.406Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-21T15:59:57.416Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-21T15:59:57.416Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-21T16:13:04.317Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-21T16:13:04.325Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-21T16:13:04.326Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T02:00:10.407Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T02:00:10.451Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T02:00:10.452Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T02:27:04.303Z"}
+{"level":"info","message":"Server is running on 0.0.0.0:3001","timestamp":"2025-10-23T02:27:04.323Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-10-23T02:27:04.325Z"}
+{"level":"info","message":"Inngest endpoint: http://0.0.0.0:3001/api/inngest","timestamp":"2025-10-23T02:27:04.327Z"}
+{"level":"info","message":"Health check: http://0.0.0.0:3001/health","timestamp":"2025-10-23T02:27:04.328Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T02:29:38.955Z"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-10-23T02:29:38.969Z"}
+{"level":"info","message":"✅ Server is running on localhost:3001","timestamp":"2025-10-23T02:29:39.010Z"}
+{"level":"info","message":"🔧 Environment: development","timestamp":"2025-10-23T02:29:39.014Z"}
+{"level":"info","message":"🔗 Inngest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-10-23T02:29:39.015Z"}
+{"level":"info","message":"🏥 Health check: http://localhost:3001/health","timestamp":"2025-10-23T02:29:39.018Z"}
+{"level":"info","message":"\n📝 Available routes:\n          - POST http://localhost:3001/auth/register\n          - POST http://localhost:3001/auth/login\n          - POST http://localhost:3001/chat/sessions\n          - POST http://localhost:3001/api/mood\n          - POST http://localhost:3001/api/activity\n        ","timestamp":"2025-10-23T02:29:39.022Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T02:31:18.740Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T02:31:18.752Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T02:31:18.753Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T03:29:22.965Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T03:29:23.147Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T03:29:23.150Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T03:30:00.593Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T03:30:00.819Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T03:30:00.840Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T03:43:28.030Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T03:43:28.043Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T03:43:28.043Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T05:02:54.513Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T05:02:54.701Z"}
+{"level":"info","message":"Backend URL: http://localhost:3001","timestamp":"2025-10-23T05:02:54.702Z"}
+{"level":"info","message":"Inngest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-10-23T05:02:54.703Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-10-23T05:02:54.704Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T05:08:50.961Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T05:08:50.972Z"}
+{"level":"info","message":"Backend URL: http://localhost:3001","timestamp":"2025-10-23T05:08:50.973Z"}
+{"level":"info","message":"Inngest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-10-23T05:08:50.974Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-10-23T05:08:50.975Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T05:09:51.038Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T05:09:51.051Z"}
+{"level":"info","message":"Backend URL: http://localhost:3001","timestamp":"2025-10-23T05:09:51.052Z"}
+{"level":"info","message":"Inngest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-10-23T05:09:51.054Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-10-23T05:09:51.055Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T05:58:19.549Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T05:58:19.557Z"}
+{"level":"info","message":"Backend URL: http://localhost:3001","timestamp":"2025-10-23T05:58:19.557Z"}
+{"level":"info","message":"Inngest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-10-23T05:58:19.559Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-10-23T05:58:19.559Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T05:58:42.241Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T05:58:42.248Z"}
+{"level":"info","message":"Backend URL: http://localhost:3001","timestamp":"2025-10-23T05:58:42.248Z"}
+{"level":"info","message":"Inngest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-10-23T05:58:42.249Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-10-23T05:58:42.249Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T06:12:01.935Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T06:13:08.683Z"}
+{"cause":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"ac-wivy2n8-shard-00-00.znbgmwt.mongodb.net:27017":{"$clusterTime":null,"address":"ac-wivy2n8-shard-00-00.znbgmwt.mongodb.net:27017","arbiters":[],"electionId":null,"error":null,"hosts":[],"iscryptd":false,"lastUpdateTime":3593722,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-wivy2n8-shard-00-01.znbgmwt.mongodb.net:27017":{"$clusterTime":null,"address":"ac-wivy2n8-shard-00-01.znbgmwt.mongodb.net:27017","arbiters":[],"electionId":null,"error":null,"hosts":[],"iscryptd":false,"lastUpdateTime":3593722,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-wivy2n8-shard-00-02.znbgmwt.mongodb.net:27017":{"$clusterTime":null,"address":"ac-wivy2n8-shard-00-02.znbgmwt.mongodb.net:27017","arbiters":[],"electionId":null,"error":null,"hosts":[],"iscryptd":false,"lastUpdateTime":3593722,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":"atlas-ff9e6e-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"errorLabelSet":{},"level":"error","message":"MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"ac-wivy2n8-shard-00-00.znbgmwt.mongodb.net:27017":{"$clusterTime":null,"address":"ac-wivy2n8-shard-00-00.znbgmwt.mongodb.net:27017","arbiters":[],"electionId":null,"error":null,"hosts":[],"iscryptd":false,"lastUpdateTime":3593722,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-wivy2n8-shard-00-01.znbgmwt.mongodb.net:27017":{"$clusterTime":null,"address":"ac-wivy2n8-shard-00-01.znbgmwt.mongodb.net:27017","arbiters":[],"electionId":null,"error":null,"hosts":[],"iscryptd":false,"lastUpdateTime":3593722,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-wivy2n8-shard-00-02.znbgmwt.mongodb.net:27017":{"$clusterTime":null,"address":"ac-wivy2n8-shard-00-02.znbgmwt.mongodb.net:27017","arbiters":[],"electionId":null,"error":null,"hosts":[],"iscryptd":false,"lastUpdateTime":3593722,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":"atlas-ff9e6e-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (F:\\Projects with Git\\ai-therapist-agent\\ai-therapist-agent-backend-main\\ai-therapist-agent-backend-main\\node_modules\\mongoose\\lib\\connection.js:1165:11)\n    at NativeConnection.openUri (F:\\Projects with Git\\ai-therapist-agent\\ai-therapist-agent-backend-main\\ai-therapist-agent-backend-main\\node_modules\\mongoose\\lib\\connection.js:1096:11)\n    at async connectDB (F:\\Projects with Git\\ai-therapist-agent\\ai-therapist-agent-backend-main\\ai-therapist-agent-backend-main\\src\\utils\\db.ts:10:5)\n    at async startServer (F:\\Projects with Git\\ai-therapist-agent\\ai-therapist-agent-backend-main\\ai-therapist-agent-backend-main\\src\\index.ts:71:5)","timestamp":"2025-10-23T07:32:52.116Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T08:03:39.959Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T08:03:39.965Z"}
+{"level":"info","message":"Backend URL: http://localhost:3001","timestamp":"2025-10-23T08:03:39.966Z"}
+{"level":"info","message":"Inngest endpoint: http://localhost:3001/api/inngest","timestamp":"2025-10-23T08:03:39.966Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-10-23T08:03:39.967Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T08:19:05.943Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T08:19:05.955Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T08:19:05.956Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T14:28:30.563Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T14:28:30.575Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T14:28:30.576Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T14:28:55.848Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T14:28:55.856Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T14:28:55.856Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T14:32:51.695Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T14:32:51.702Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T14:32:51.703Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T14:34:04.234Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T14:34:04.245Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T14:34:04.246Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T14:37:34.833Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T14:37:34.848Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T14:37:34.849Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T14:45:17.920Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T14:45:17.927Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T14:45:17.927Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T14:48:38.940Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T14:48:39.008Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T14:48:39.008Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T15:17:19.648Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T15:17:19.656Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T15:17:19.657Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T15:19:17.164Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T15:19:17.180Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T15:19:17.181Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T15:21:58.766Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T15:21:58.774Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T15:21:58.774Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T15:52:33.057Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T15:52:33.064Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T15:52:33.065Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T15:54:14.432Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T15:54:14.440Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T15:54:14.441Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-23T15:55:01.649Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-23T15:55:01.667Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-23T15:55:01.668Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T00:30:12.185Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T00:30:14.465Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T00:30:14.467Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T00:42:26.843Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T00:42:26.863Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T00:42:26.865Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T00:43:59.003Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T00:43:59.027Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T00:43:59.029Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T01:18:21.241Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T01:18:21.250Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T01:18:21.251Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T01:19:09.001Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T01:19:09.011Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T01:19:09.012Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T01:29:53.125Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T01:29:53.132Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T01:29:53.132Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T01:32:40.169Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T01:32:40.176Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T01:32:40.177Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T01:33:13.169Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T01:33:13.175Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T01:33:13.176Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T01:36:11.548Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T01:36:11.557Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T01:36:11.558Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T01:38:25.289Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T01:38:25.298Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T01:38:25.299Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T03:03:35.448Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T03:03:35.464Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T03:03:35.466Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T05:12:57.981Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T05:12:58.449Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T05:12:58.450Z"}
+{"cause":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"ac-wivy2n8-shard-00-00.znbgmwt.mongodb.net:27017":{"$clusterTime":null,"address":"ac-wivy2n8-shard-00-00.znbgmwt.mongodb.net:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":2906187,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-wivy2n8-shard-00-01.znbgmwt.mongodb.net:27017":{"$clusterTime":null,"address":"ac-wivy2n8-shard-00-01.znbgmwt.mongodb.net:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":2906729,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-wivy2n8-shard-00-02.znbgmwt.mongodb.net:27017":{"$clusterTime":null,"address":"ac-wivy2n8-shard-00-02.znbgmwt.mongodb.net:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":2906185,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":"atlas-ff9e6e-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"errorLabelSet":{},"level":"error","message":"MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"ac-wivy2n8-shard-00-00.znbgmwt.mongodb.net:27017":{"$clusterTime":null,"address":"ac-wivy2n8-shard-00-00.znbgmwt.mongodb.net:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":2906187,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-wivy2n8-shard-00-01.znbgmwt.mongodb.net:27017":{"$clusterTime":null,"address":"ac-wivy2n8-shard-00-01.znbgmwt.mongodb.net:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":2906729,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-wivy2n8-shard-00-02.znbgmwt.mongodb.net:27017":{"$clusterTime":null,"address":"ac-wivy2n8-shard-00-02.znbgmwt.mongodb.net:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":2906185,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":"atlas-ff9e6e-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (F:\\Projects with Git\\ai-therapist-agent\\ai-therapist-agent-backend-main\\ai-therapist-agent-backend-main\\node_modules\\mongoose\\lib\\connection.js:1165:11)\n    at NativeConnection.openUri (F:\\Projects with Git\\ai-therapist-agent\\ai-therapist-agent-backend-main\\ai-therapist-agent-backend-main\\node_modules\\mongoose\\lib\\connection.js:1096:11)\n    at async connectDB (F:\\Projects with Git\\ai-therapist-agent\\ai-therapist-agent-backend-main\\ai-therapist-agent-backend-main\\src\\utils\\db.ts:10:5)\n    at async startServer (F:\\Projects with Git\\ai-therapist-agent\\ai-therapist-agent-backend-main\\ai-therapist-agent-backend-main\\src\\index.ts:53:5)","timestamp":"2025-10-24T05:20:11.538Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T05:36:00.536Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T05:36:00.546Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T05:36:00.547Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T05:36:08.239Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T05:42:44.257Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T05:42:44.264Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T05:42:44.264Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T07:22:10.860Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T07:22:10.868Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T07:22:10.868Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T07:22:44.638Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T07:22:44.651Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T07:22:44.652Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T07:23:22.623Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T07:23:22.639Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T07:23:22.640Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T07:25:04.780Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T07:25:04.791Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T07:25:04.792Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T07:25:47.617Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T07:25:47.632Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T07:25:47.633Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T07:26:33.400Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T07:26:33.413Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T07:26:33.414Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T07:26:57.169Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T07:26:57.187Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T07:26:57.188Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T08:21:03.033Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T08:21:03.040Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T08:21:03.041Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T08:22:05.535Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T08:22:05.543Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T08:22:05.543Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T09:28:01.171Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T09:28:01.194Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T09:28:01.195Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T09:30:12.394Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-24T09:30:12.403Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-24T09:30:12.404Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T09:54:04.940Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T09:54:04.952Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T09:54:04.953Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T10:11:14.411Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T10:11:14.417Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T10:11:14.418Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T10:11:28.259Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T10:11:28.267Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T10:11:28.268Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T10:25:54.115Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T10:25:54.122Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T10:25:54.123Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T10:28:32.327Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T10:28:32.335Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T10:28:32.336Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T10:29:26.448Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T10:29:26.456Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T10:29:26.456Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T10:33:14.903Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T10:33:14.909Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T10:33:14.909Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T10:44:59.051Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T10:44:59.076Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T10:44:59.077Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T11:05:15.927Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T11:05:15.947Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T11:05:15.949Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T13:12:38.463Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T13:12:38.485Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T13:12:38.487Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T13:19:21.332Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T13:19:21.341Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T13:19:21.342Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T13:19:36.042Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T13:19:36.052Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T13:19:36.053Z"}
+{"level":"info","message":"Mood entry created for user 68fb4fb16e049e97ac46531b","timestamp":"2025-10-24T13:39:46.162Z"}
+{"level":"info","message":"Mood update event sent successfully","timestamp":"2025-10-24T13:39:52.891Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T14:25:45.566Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T14:25:45.574Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T14:25:45.575Z"}
+{"level":"info","message":"Mood entry created for user 68fb4fb16e049e97ac46531b","timestamp":"2025-10-24T14:26:29.073Z"}
+{"level":"info","message":"Mood update event sent successfully","timestamp":"2025-10-24T14:26:41.912Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-24T16:08:56.481Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-24T16:08:56.499Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-24T16:08:56.501Z"}
+{"level":"info","message":"Mood entry created for user 68fb4fb16e049e97ac46531b","timestamp":"2025-10-25T04:24:26.230Z"}
+{"level":"info","message":"Mood update event sent successfully","timestamp":"2025-10-25T04:24:32.591Z"}
+{"level":"info","message":"Processing message: Can we talk about improving sleep?","sessionId":"5548decc-ed1a-45a5-bbbb-6a268a4c5a94","timestamp":"2025-10-25T04:24:58.702Z"}
+{"event":{"data":{"goals":[],"history":[],"memory":{"sessionContext":{"conversationThemes":[],"currentTechnique":null},"userProfile":{"emotionalState":[],"preferences":{},"riskLevel":0}},"message":"Can we talk about improving sleep?","systemPrompt":"You are an AI therapist assistant. Your role is to:\n        1. Provide empathetic and supportive responses\n        2. Use evidence-based therapeutic techniques\n        3. Maintain professional boundaries\n        4. Monitor for risk factors\n        5. Guide users toward their therapeutic goals"},"name":"therapy/session.message"},"level":"info","message":"Sending message to Inngest:","timestamp":"2025-10-25T04:24:58.955Z"}
+{"level":"error","message":"Error in sendMessage: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent: [400 Bad Request] API key not valid. Please pass a valid API key. [{\"@type\":\"type.googleapis.com/google.rpc.ErrorInfo\",\"reason\":\"API_KEY_INVALID\",\"domain\":\"googleapis.com\",\"metadata\":{\"service\":\"generativelanguage.googleapis.com\"}},{\"@type\":\"type.googleapis.com/google.rpc.LocalizedMessage\",\"locale\":\"en-US\",\"message\":\"API key not valid. Please pass a valid API key.\"}]","stack":"Error: [400 Bad Request] API key not valid. Please pass a valid API key. [{\"@type\":\"type.googleapis.com/google.rpc.ErrorInfo\",\"reason\":\"API_KEY_INVALID\",\"domain\":\"googleapis.com\",\"metadata\":{\"service\":\"generativelanguage.googleapis.com\"}},{\"@type\":\"type.googleapis.com/google.rpc.LocalizedMessage\",\"locale\":\"en-US\",\"message\":\"API key not valid. Please pass a valid API key.\"}]\n    at makeRequest (F:\\Projects with Git\\ai-therapist-agent\\ai-therapist-agent-backend-main\\ai-therapist-agent-backend-main\\node_modules\\@google\\generative-ai\\dist\\index.js:263:19)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async generateContent (F:\\Projects with Git\\ai-therapist-agent\\ai-therapist-agent-backend-main\\ai-therapist-agent-backend-main\\node_modules\\@google\\generative-ai\\dist\\index.js:655:22)\n    at async sendMessage (F:\\Projects with Git\\ai-therapist-agent\\ai-therapist-agent-backend-main\\ai-therapist-agent-backend-main\\src\\controllers\\chat.ts:130:28)","timestamp":"2025-10-25T04:25:02.938Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-25T04:49:46.128Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-25T04:49:46.305Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-25T04:49:46.307Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-25T04:54:09.769Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-25T04:54:09.777Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-25T04:54:09.778Z"}
+{"level":"info","message":"Processing message: Can we talk about improving sleep?","sessionId":"72da5d5e-7967-4373-820d-4db123c65b09","timestamp":"2025-10-25T05:00:37.147Z"}
+{"event":{"data":{"goals":[],"history":[],"memory":{"sessionContext":{"conversationThemes":[],"currentTechnique":null},"userProfile":{"emotionalState":[],"preferences":{},"riskLevel":0}},"message":"Can we talk about improving sleep?","systemPrompt":"You are an AI therapist assistant. Your role is to:\n        1. Provide empathetic and supportive responses\n        2. Use evidence-based therapeutic techniques\n        3. Maintain professional boundaries\n        4. Monitor for risk factors\n        5. Guide users toward their therapeutic goals"},"name":"therapy/session.message"},"level":"info","message":"Sending message to Inngest:","timestamp":"2025-10-25T05:00:37.365Z"}
+{"emotionalState":"Neutral","level":"info","message":"Message analysis:","progressIndicators":["Reported sleep duration","Sleep quality ratings","Adherence to sleep hygiene practices","Reduction in sleep disturbances"],"recommendedApproach":"Assess current sleep habits, explore potential causes of sleep issues, and suggest evidence-based strategies for improvement like sleep hygiene, relaxation techniques, or CBT-I.","riskLevel":0,"themes":["Sleep Improvement"],"timestamp":"2025-10-25T05:00:42.293Z"}
+{"level":"info","message":"Generated response:","timestamp":"2025-10-25T05:00:45.199Z"}
+{"level":"info","message":"Session updated successfully:","sessionId":"72da5d5e-7967-4373-820d-4db123c65b09","timestamp":"2025-10-25T05:00:45.476Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-25T05:42:22.832Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3001","timestamp":"2025-10-25T05:42:22.874Z"}
+{"level":"info","message":"📍 Inngest: http://localhost:3001/api/inngest","timestamp":"2025-10-25T05:42:22.875Z"}
